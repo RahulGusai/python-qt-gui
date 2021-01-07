@@ -1,5 +1,3 @@
-# portable-zone-monitor
+# GUI Application
 
-Python source code corresponds to the software deployed in raspberry pi for display uni where as C source code corresponds to the software deployed in nodeMU for data reception.
-
-Note: In order to work in nodeMCU,C source code needs the other library files present in zoneMonitor repo.
+This GUI application is built using python and Qt framework.
